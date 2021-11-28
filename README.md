@@ -1,2 +1,2 @@
 # Tienda
- business application
+ basic business application
